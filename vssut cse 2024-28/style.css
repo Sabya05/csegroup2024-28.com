@@ -1,0 +1,149 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    font-size:xx-large;
+    color:red;
+}
+
+.icon{ 
+    height: 150px;
+    width : 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.scroll{
+    color:black;
+    background-color:aqua;
+height: 200px;
+}
+.box{background-color: chartreuse;
+    height: 50px;
+margin:1px;
+
+}
+.link{
+    text-align:center;
+    color: aqua;
+}
+.meme{
+    color: white;
+    background-color:darkmagenta;
+    margin: 5px;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+    color: chartreuse;
+}
+
+.Notice{
+    color:greenyellow;
+
+}
+.picture{
+    
+    background-color:brown;
+}
+.video{
+    margin: 3px;
+    height: 200px;
+    width: 280px;
+}
+
+.pic{
+    height: 200px;
+    width:250px;
+    margin:5px;
+    padding: 5px;
+}
+
+
+
+
+.insta{
+    color:aqua ;
+}
+.box2{
+    background-color:aquamarine;
+    height: 50px;
+    width:500px ;
+    text-align: center;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight:bolder ;
+    font-size: xx-large;
+    color: black;
+    
+}
+.body2{
+    background-image: url(pic5.jpeg);
+}
+.follow{
+    color: white;
+}
+button{
+    background-color:;
+}
+.button{
+    background-color: white;
+    color:black;
+    border-radius: 550px;
+   margin:3px;
+}
+.button a{
+    text-decoration: none;
+}
+a:hover{
+    background: var(--clr);
+    letter-spacing :0.25px;
+    box-shadow: 0 0 35px var(--clr);
+}
+
+.figure{
+    position: relative;
+    left:0;
+    width: 100%;
+    animation: 10s slide infinite;
+}
+.slide {
+    position: relative;
+    width: 100%;
+    float: left;
+}
+*{
+    margin:1px;
+padding:1px;
+}
+img{
+    height: auto;
+    width:auto;
+}
+.slide{
+    width:100%;
+    height: 100%;
+
+}
+.fa-brands {
+    margin: 10px;
+   font-size: 50px;
+   
+   color: red;
+
+position: relative;
+left:38%;
+}
+.videoimp{
+    height:500px;
+    width:100%;
+}
+
